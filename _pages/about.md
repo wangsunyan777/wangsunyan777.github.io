@@ -20,6 +20,5 @@ Research Interests
 ======
 * AI Agents
 * Reinforcement Learning
-* Large Reasoning Models
-------
+
 
